@@ -1,0 +1,16 @@
+﻿  inversa_determinante_8086_parte2mal.cpp
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\inversa_determinante_8086_parte2mal.cpp(73): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\inversa_determinante_8086_parte2mal.cpp(123): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\inversa_determinante_8086_parte2mal.cpp(140): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\inversa_determinante_8086_parte2mal.cpp(178): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\inversa_determinante_8086_parte2mal.cpp(187): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\inversa_determinante_8086_parte2mal.cpp(201): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\inversa_determinante_8086_parte2mal.cpp(233): warning C4409: tamaño de instrucción máquina no válido
+  testeo.cpp
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\testeo.cpp(23,25): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\testeo.cpp(74): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\testeo.cpp(123): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\testeo.cpp(139): warning C4409: tamaño de instrucción máquina no válido
+C:\Users\Ander\source\repos\EjerciciosEnsamblador\testeo.cpp(227): warning C4409: tamaño de instrucción máquina no válido
+  Generando código...
+  EjerciciosEnsamblador.vcxproj -> C:\Users\Ander\source\repos\EjerciciosEnsamblador\Debug\EjerciciosEnsamblador.exe
